@@ -78,6 +78,9 @@ color: #404bbf;
 .nav-link {
     text-decoration: none;
 }
+.nav-link:hover,.nav-link:focus{
+    color: #404bbf;
+}
 .address-link {
     text-decoration: none;
 }
