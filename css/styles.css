@@ -57,12 +57,9 @@ color: #404bbf;
 /* #region --hero-- */
 .page-title{
     font-weight: 700;
-    font-size: 56x;
+    font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-}
-.section-hero .page-title{
-    font-size: 56px;
 }
 .section-hero{
     color: #FFF;
